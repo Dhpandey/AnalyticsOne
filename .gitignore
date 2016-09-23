@@ -1,0 +1,20 @@
+target
+*.class
+*.iml
+*.ipr
+*.iws
+.idea
+out
+.DS_Store
+*.log
+
+# sbt specific
+.cache/
+.history/
+.lib/
+dist/*
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.scala_dependencies
